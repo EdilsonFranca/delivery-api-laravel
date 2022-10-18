@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="01950c27-ec1e-4b49-98fd-b8dbe14ebef9" name="talkip">
+        <fileTransfer rootFolder="/usr/share/nginx/html/" accessType="SFTP" host="165.227.98.24" port="2022" sshConfigId="5a6593c0-ec98-4578-b256-5227c8cf35e8" sshConfig="edilson@165.227.98.24:2022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
